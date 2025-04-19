@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/hello.png" alt="Hi, I'm Naufal Banner" width="800"/>
+  <img src="images/hello.png" alt="Hi, I'm Naufal Banner" width="400"/>
 </p>
 
 ## Hi there 👋 I'm Naufal!
