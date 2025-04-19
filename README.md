@@ -2,8 +2,6 @@
   <img src="images/hello.png" alt="Hi, I'm Naufal Banner" width="400"/>
 </p>
 
-## Hi there 👋 I'm Naufal!
-
 I'm a **Software Engineer** passionate about learning new technologies and building scalable backend systems.
 Fresh graduate from **Telkom University** majoring in Informatics — always eager to learn and collaborate in the world of tech!
 I love solving problems and exploring tools that make development better and faster 🚀
